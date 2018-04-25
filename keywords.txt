@@ -17,12 +17,12 @@ writeGPIOAB	KEYWORD2
 readGPIOAB	KEYWORD2
 
 
-pinMode      KEYWORD2
+pinMode	KEYWORD2
 
-digitalWrite KEYWORD2
-digitalRead KEYWORD2
-analogWrite KEYWORD2
-analogRead KEYWORD2
+digitalWrite	KEYWORD2
+digitalRead	KEYWORD2
+analogWrite	KEYWORD2
+analogRead	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
